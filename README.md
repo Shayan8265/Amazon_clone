@@ -1,6 +1,3 @@
-
-Certainly! Here's a GitHub description based on the provided information:
-
 Amazon Main Page Replica
 This project is a replica of Amazon's main page created using HTML and CSS. It serves as a demonstration of proficiency in front-end web development techniques, showcasing attention to detail in replicating layout, design, and styling elements from the original Amazon homepage.
 
